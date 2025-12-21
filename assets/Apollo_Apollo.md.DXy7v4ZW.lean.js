@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t}from"./chunks/framework.CXKE0KrB.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Apollo/Apollo.md","filePath":"Apollo/Apollo.md"}'),l={name:"Apollo/Apollo.md"};function a(p,r,s,c,n,_){return t(),e("div")}const m=o(l,[["render",a]]);export{i as __pageData,m as default};
