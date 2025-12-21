@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.B1UcUiOW.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"数据库/mongdb.md","filePath":"数据库/mongdb.md"}'),a={name:"数据库/mongdb.md"};function n(r,s,c,d,m,p){return o(),t("div")}const f=e(a,[["render",n]]);export{i as __pageData,f as default};
